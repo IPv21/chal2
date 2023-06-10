@@ -4,6 +4,7 @@
 }
 
 header {
+
     padding-bottom: 20px;
     width: 800px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -13,9 +14,22 @@ main {
     width: 700px;
 }
 
+.float {
+    float: right;
+
+}
+
 ul  {
-    display: block;
-    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    word-spacing: 20px;
+    justify-content: center;
+    font-size: 30px;
+
+}
+
+li {
+    padding-right: 40px;
 }
 
 
@@ -25,17 +39,20 @@ section {
     padding: 20px;
     display: flex;
     background-color: aliceblue;
-    width: 800px;
+    width: 80%;
 
 
 }
 .authority {
 
     text-align: left;
-    width: 800px;
+
 
  }
 
+ aside{
+    float: right;
+ }
 
 
 
@@ -74,7 +91,7 @@ h2 {
     
     font-size: 40px;
     padding-right: 15px;
-    padding-left: 60px;
+    padding-left: 20px;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
 }
 
@@ -84,7 +101,7 @@ h2 {
 
 
 
-@media screen and (max-width: 786px) {
+@media screen and (max-width: 1000px) {
     header, main {
         flex-direction: column;
     }
