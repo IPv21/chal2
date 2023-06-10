@@ -4,14 +4,16 @@
 }
 
 header {
-
+    
+    display: flex;
+    flex-wrap: wrap;
     padding-bottom: 20px;
-    width: 800px;
+    width: 100%;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     }
 
 main {
-    width: 700px;
+    display: block;
 }
 
 .float {
@@ -51,7 +53,8 @@ section {
  }
 
  aside{
-    float: right;
+    display:inline-block;
+    width: 20%;
  }
 
 
