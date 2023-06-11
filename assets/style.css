@@ -17,7 +17,10 @@ main {
 }
 
 .float {
+    
     float: right;
+ 
+    
 
 }
 
@@ -34,6 +37,12 @@ li {
     padding-right: 40px;
 }
 
+.aside {
+    display: block;
+    width: 20%;
+
+}
+
 
 
 section {
@@ -41,7 +50,8 @@ section {
     padding: 20px;
     display: flex;
     background-color: aliceblue;
-    width: 80%;
+    width: 100%;
+    max-width: 800px;
 
 
 }
@@ -52,10 +62,6 @@ section {
 
  }
 
- aside{
-    display:inline-block;
-    width: 20%;
- }
 
 
 
@@ -96,6 +102,10 @@ h2 {
     padding-right: 15px;
     padding-left: 20px;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+footer {
+    padding: 40px;
 }
 
 
