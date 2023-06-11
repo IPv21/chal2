@@ -10,19 +10,14 @@ constraints lead me to submit a project that is not up to my own standards. I no
 that I will need to work on moving forward. For now progress > perfection. I was able to build this after just a few weeks
  of instruction, and am excited to progress in the course. 
  
+ https://ipv21.github.io/chal2/
+ 
  
 
 
 
+![msShuman](https://github.com/IPv21/chal2/assets/132957361/2c7584de-e5da-476d-88b3-4e2e4f3417e7)
 
 
-
-link https://ipv21.github.io/Horsey/
-
-The code now follows propers semantic structure, and there are image descriptions to accompany the images.
-
-I'd like to thank everyone that has been active on Slack, sharing notes and trying to get each other to the best possible outcome.
-
-I went with the MIT License as it seemed the most appropriate for this type of project.
 
 🦡
