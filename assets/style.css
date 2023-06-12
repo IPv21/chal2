@@ -3,10 +3,12 @@
     font-family: sans-serif;
 }
 
+/* reactive header */
 header {
     
     display: flex;
     flex-wrap: wrap;
+    text-align: center;
     padding-bottom: 20px;
     width: 100%;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -16,11 +18,15 @@ main {
     display: block;
 }
 
+/*makes the bullets turn chartreuse on hover  */
 .float {
     
     float: right;
- 
-    
+
+}
+
+li:hover {
+    color: chartreuse;
 
 }
 
@@ -34,9 +40,12 @@ ul  {
 }
 
 li {
+    padding-top: 20px;
     padding-right: 40px;
+    padding-bottom: 10px;
 }
 
+/* future additions */
 .aside {
     display: block;
     width: 20%;
@@ -71,6 +80,10 @@ section {
 
  }
 
+ .ro {
+    padding-top: 20px;
+ }
+
 
 
 
@@ -90,6 +103,7 @@ p {
     
 }
 
+/* adds style to the page */
 .authority {
     background: transparent;
 }
