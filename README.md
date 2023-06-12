@@ -10,6 +10,8 @@ constraints lead me to submit a project that is not up to my own standards. I no
 that I will need to work on moving forward. For now progress > perfection. I was able to build this after just a few weeks
  of instruction, and am excited to progress in the course. 
  
+ Cat Wearing Bowtie link ---> https://ipv21.github.io/css-project/
+ 
  https://ipv21.github.io/chal2/
  
  
